@@ -1,2 +1,2 @@
 # TestRepo
-Im Deekshitha form the department of biomedical Engineering
+Im Deekshitha from the department of biomedical Engineering
